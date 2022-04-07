@@ -10,12 +10,12 @@ import os.path
 # TODO: Load from a configuration file
 
 RUBRIC = [
-          ("Exercise 1: Friendly numbers", "are_friendly", 10.0),
-          ("Exercise 2: Degree of friendship", "degree_of_friendship", 10.0),
-          ("Exercise 3: Even parity", "has_even_parity", 10.0),    
-          ("Exercise 4: Goldschmidt's algorithm", "goldschmidt", 20.0),
-          ("Exercise 5: Index of highest 1 bit", "index_of_highest_1", 25.0), 
-          ("Exercise 6: Narcissistic number", "is_narcissistic", 25.0),   
+          ("Exercise 1: Friendly numbers", "are_friendly", 5.0),
+          ("Exercise 2: Degree of friendship", "degree_of_friendship", 5.0),
+          ("Exercise 3: Even parity", "has_even_parity", 5.0),    
+          ("Exercise 4: Goldschmidt's algorithm", "goldschmidt", 15.0),
+          ("Exercise 5: Index of highest 1 bit", "index_of_highest_1", 15.0), 
+          ("Exercise 6: Narcissistic number", "is_narcissistic", 15.0),   
          ]
 
 def print_empty_gradescope():
